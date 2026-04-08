@@ -36,7 +36,7 @@ A modern, responsive personal portfolio website built with pure HTML, CSS, and V
 
 ## 🌍 Live Demo
 
-[View Portfolio →]([https://your-live-link.netlify.app](https://manvigarg11.github.io/My-Portfolio/))
+[View Portfolio →](https://manvigarg11.github.io/My-Portfolio/)
 
 ## 📬 Contact
 
