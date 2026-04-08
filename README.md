@@ -30,13 +30,13 @@ A modern, responsive personal portfolio website built with pure HTML, CSS, and V
 ```bash
    git clone https://github.com/manvigarg11/portfolio.git
 ```
-2. Add your resume as `Manvi_Resume_AI_.pdf` in the root folder
-3. Add your photo as `your-photo.jpg` in the root folder
+2. Add your resume as `Manvi_Resume(AI).pdf` in the root folder
+3. Add your photo as `img.jpeg` in the root folder
 4. Open `index.html` in your browser — done!
 
 ## 🌍 Live Demo
 
-[View Portfolio →](https://your-live-link.netlify.app)
+[View Portfolio →]([https://your-live-link.netlify.app](https://manvigarg11.github.io/My-Portfolio/))
 
 ## 📬 Contact
 
